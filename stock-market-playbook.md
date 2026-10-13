@@ -32,7 +32,7 @@
   • stop-loss             • small size =         • support/resistance
   • reward ≥ 3x risk        small panic          • trends, candles
         |                       |                       |
-        +-------------  DISCIPLINE = YOUR SCOREBOARD ---------+
+        +----------  DISCIPLINE = YOUR SCOREBOARD -------+
 ```
 
 ---
