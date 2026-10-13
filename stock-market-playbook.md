@@ -39,7 +39,7 @@
 
 ## 🎮 Level 0: Meet the traders
 
-The market is an **trader farm**. There are many kinds of traders (traders), but the two that matter are:
+The market is an **trader farm**. There are many kinds of traders, but the two that matter are:
 
 - 🐘 **Patient traders:** their #1 skill is *money management*. Other skills matter, but none of them work without it.
 - 🐘💨 **Impatient traders:** they are the ones destined to fail.
