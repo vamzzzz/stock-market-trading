@@ -1,4 +1,4 @@
-# 🐘 The Elephant Playbook
+# 🐘 The Trader Playbook
 
 ### Share-market rules, decoded 
 
@@ -32,17 +32,17 @@
   • stop-loss             • small size =         • support/resistance
   • reward ≥ 3x risk        small panic          • trends, candles
         |                       |                       |
-        +----------  DISCIPLINE = YOUR SCOREBOARD -------+
+        +----------  DISCIPLINE = YOUR SCOREBOARD ------+
 ```
 
 ---
 
-## 🎮 Level 0: Meet the elephants
+## 🎮 Level 0: Meet the traders
 
-The market is an **elephant farm**. There are many kinds of elephants (traders), but the two that matter are:
+The market is an **trader farm**. There are many kinds of traders (traders), but the two that matter are:
 
-- 🐘 **Patient elephants:** their #1 skill is *money management*. Other skills matter, but none of them work without it.
-- 🐘💨 **Impatient elephants:** they are the ones destined to fail.
+- 🐘 **Patient traders:** their #1 skill is *money management*. Other skills matter, but none of them work without it.
+- 🐘💨 **Impatient traders:** they are the ones destined to fail.
 
 ---
 
@@ -73,7 +73,7 @@ Impatient  ████████████████████         
 ```
 
 ### The 3rd trade is where it gets spicy
-On trade #3, the stock dips a bit and the impatient elephant, still haunted by the last two losses, panics and sells. The stock then bounces back strongly. The patient elephant is still in the game, recovers the earlier losses, and profits. **Lesson:** staying alive long enough to catch the big winner is the whole game.
+On trade #3, the stock dips a bit and the impatient trader, still haunted by the last two losses, panics and sells. The stock then bounces back strongly. The patient trader is still in the game, recovers the earlier losses, and profits. **Lesson:** staying alive long enough to catch the big winner is the whole game.
 
 ### How to size a trade: the correct order of operations
 
@@ -108,7 +108,7 @@ Newbies follow "2%" but choose quantity first (*"I can afford 100 shares"*), the
 
 ## 🎲 Level 2: Why ten small bets beat one big bet
 
-Both elephants risk the same total (20%). Is there a difference? **Yes: probability.**
+Both traders risk the same total (20%). Is there a difference? **Yes: probability.**
 
 Assume zero skill: each trade is a coin flip (50% win, 50% lose).
 
@@ -145,7 +145,7 @@ Patient   (2% rule):      you see  −1.5% 👻
 ```
 
 - **Leave ego outside.** Institutions trade billions; you're small change. An exit signal is an exit signal.
-- **Accidental wins are dangerous.** The impatient elephant *could* just as easily win twice, and win more than the patient one, since it bought more shares. But a win that comes from breaking the rules is luck, not skill. You think your chart-reading is great, your confidence inflates, you bet bigger, and eventually fall into a deep pit.
+- **Accidental wins are dangerous.** The impatient trader *could* just as easily win twice, and win more than the patient one, since it bought more shares. But a win that comes from breaking the rules is luck, not skill. You think your chart-reading is great, your confidence inflates, you bet bigger, and eventually fall into a deep pit.
 - Good money management makes good mind management *possible*.
 
 ---
