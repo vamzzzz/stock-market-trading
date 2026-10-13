@@ -25,14 +25,14 @@
 ```
                      SURVIVE FIRST  🐘
                             |
-        +-------------------+--------------------+
-        |                   |                    |
-  MONEY MANAGEMENT    MIND MANAGEMENT     SETUPS & CHARTS
-  • 2% rule           • no ego            • price action
-  • stop-loss         • small size =      • support/resistance
-  • reward ≥ 3x risk    small panic       • trends, candles
-        |                   |                    |
-        +---------  DISCIPLINE = YOUR SCOREBOARD ---------+
+        +-----------------------+-----------------------+
+        |                       |                       |
+  MONEY MANAGEMENT        MIND MANAGEMENT        SETUPS & CHARTS
+  • 2% rule               • no ego               • price action
+  • stop-loss             • small size =         • support/resistance
+  • reward ≥ 3x risk        small panic          • trends, candles
+        |                       |                       |
+        +-------------  DISCIPLINE = YOUR SCOREBOARD ---------+
 ```
 
 ---
