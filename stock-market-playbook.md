@@ -478,11 +478,11 @@ The closing philosophy:
 
 ## ⚠️ Reality check (read before you act)
 
-- This playbook reflects **one school of thought** (discretionary technical trading) from a 2019 thread, and no track record is shown. All price levels (Tata Motors, HDFC Bank, Eicher, etc.) are historical examples, **not current signals**.
+- This playbook reflects **one school of thought** (discretionary technical trading), and no track record is verified. All price levels (Tata Motors, HDFC Bank, Eicher, etc.) are historical examples, **not current signals**.
 - The rule is 2% risk **per trade**, with many open trades allowed. Ten open trades at 2% = up to **20% of capital at risk** at once. Many traders also cap *total* open risk (a common range is 5–6%) and watch for stocks that move together (same sector), since they can all hit stops on the same bad day.
 - Gaps can jump past a stop, so a "2% risk" can become a bigger loss.
 - The **stop-hunt theory** and the **"fundamentals aren't worth it"** stance are debated among traders. Treat them as views, not facts.
 - Shorting positionally needs derivatives, which the same playbook says beginners should avoid at first.
 - **This is educational, not financial advice.**
 
-*Examples and numbers are paraphrased from the source thread unless marked as extra maths.*
+*Examples and numbers are indicative.*
