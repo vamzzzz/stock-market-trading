@@ -1,7 +1,8 @@
 # 🐘 The Elephant Playbook
-### Share-market rules, decoded (English summary of a Marathi thread)
 
-> Based on a Marathi forum thread on share-market trading (2019). Everything below is **educational, not financial advice**, and there are **no stock tips** here. Price levels are historical examples, not current signals.
+### Share-market rules, decoded 
+
+> Everything below is **educational, not financial advice**, and there are **no stock tips** here. Price levels are historical examples, not current signals.
 
 ---
 
